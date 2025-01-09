@@ -15,7 +15,8 @@ I'm passionate about combining data-driven insights with innovative technologies
 ## Skills & Tools 🛠️  
 
 ### **Data Analysis & Visualization**  
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white) ![Looker](https://img.shields.io/badge/-Looker-4285F4?logo=looker&logoColor=white) ![DAX](https://img.shields.io/badge/-DAX-0078D7?logo=microsoft&logoColor=white) ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)  ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=google-colab&logoColor=black) ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-FA0F00?logo=jupyter&logoColor=white)  
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black) 
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white) ![Looker](https://img.shields.io/badge/-Looker-4285F4?logo=looker&logoColor=white) ![DAX](https://img.shields.io/badge/-DAX-0078D7?logo=microsoft&logoColor=white) ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)  ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=google-colab&logoColor=black) ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-FA0F00?logo=jupyter&logoColor=white)  
 
 ### **Programming Languages**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)  
