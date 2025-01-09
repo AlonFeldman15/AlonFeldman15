@@ -66,7 +66,7 @@ collaborate with: [Tomer Hod](https://github.com/tomerhod1)
 
 
 ## Let's Connect 🌐  
-- **LinkedIn**: [Alon Feldman](www.linkedin.com/in/alon-feldman5)  
+- **LinkedIn**: [Alon Feldman](https://www.linkedin.com/in/alon-feldman5)  
 - **Email**: alon.feldman5@gmail.com  
 
 ---
