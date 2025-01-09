@@ -51,16 +51,24 @@ Developed an intuitive platform for smarter job searches:
 - **Backend**: Flask  
 - **Database**: MongoDB  
 - Focused on accessibility and user-friendly design.
-collaborate with: [Shai Kiko](https://github.com/shaik1201), [Oren Elbazis](https://github.com/oren1996), [Ofek Fuchs](https://github.com/ofekfuchs), [Or Cohen](https://github.com/orcohen226), Tamar Bronshtein    
 
+  collaborate with: [Shai Kiko](https://github.com/shaik1201), [Oren Elbazis](https://github.com/oren1996), [Ofek Fuchs](https://github.com/ofekfuchs), [Or Cohen](https://github.com/orcohen226), Tamar Bronshtein
+
+  [Read More](https://github.com/shaik1201/Final-Project)
+ 
 ### Forecasting Natural Gas Prices  
 - Predicting opening prices using a **ARIMA model** with features like crude oil prices, USD-Euro rates, and weather data.  
-- Integrating advanced statistical metrics to measure forecasting quality.  
+- Integrating advanced statistical metrics to measure forecasting quality.
+
+  [Read More](https://github.com/AlonFeldman15/FintechProject)
 
 ### Semantic Network Analysis  
 - Created semantic networks from tweets to study **hostility levels** and their **semantic structures**.  
-- Utilized **Louvain** and **Leiden** community detection algorithms to reveal word-group structures.  
-collaborate with: [Tomer Hod](https://github.com/tomerhod1) 
+- Utilized **Louvain** and **Leiden** community detection algorithms to reveal word-group structures.
+
+  collaborate with: [Tomer Hod](https://github.com/tomerhod1)
+
+  [Read More](https://github.com/AlonFeldman15/Semantic-Network-Project)
   
 **And many more**
 
