@@ -52,7 +52,7 @@ Developed an intuitive platform for smarter job searches:
 - **Database**: MongoDB  
 - Focused on accessibility and user-friendly design.
 
-  collaborate with: [Shai Kiko](https://github.com/shaik1201), [Oren Elbazis](https://github.com/oren1996), [Ofek Fuchs](https://github.com/ofekfuchs), [Or Cohen](https://github.com/orcohen226), Tamar Bronshtein
+  Collaborate with: [Shai Kiko](https://github.com/shaik1201), [Oren Elbazis](https://github.com/oren1996), [Ofek Fuchs](https://github.com/ofekfuchs), [Or Cohen](https://github.com/orcohen226), Tamar Bronshtein
 
   [Read More](https://github.com/shaik1201/Final-Project)
  
@@ -66,7 +66,7 @@ Developed an intuitive platform for smarter job searches:
 - Created semantic networks from tweets to study **hostility levels** and their **semantic structures**.  
 - Utilized **Louvain** and **Leiden** community detection algorithms to reveal word-group structures.
 
-  collaborate with: [Tomer Hod](https://github.com/tomerhod1)
+  Collaborate with: [Tomer Hod](https://github.com/tomerhod1)
 
   [Read More](https://github.com/AlonFeldman15/Semantic-Network-Project)
   
