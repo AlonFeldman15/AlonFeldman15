@@ -7,7 +7,7 @@
 
 ## About Me 🌟  
 I'm passionate about combining data-driven insights with innovative technologies to create impactful solutions.  
-- 💡 I work on data projects in **fintech**, **behavioral sciences** and **business development**    
+- 💡 I work on data projects in **fintech**, **behavioral sciences**, **business development** and more.   
 - 🛠️ I’ve built end-to-end BI systems 
 
 ---
