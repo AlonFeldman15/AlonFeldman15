@@ -40,12 +40,12 @@ I'm passionate about combining data-driven insights with innovative technologies
 
 ## Projects 🚀  
 
-### An end-to-end BI System 
+### Alumni BI System 
   Developed an intuitive BI platform for my workplace:
   - Design and develop end-to-end data pipelines and interactive dashboards to deliver actionable insights to stakeholders.
   - Leverage Power BI for comprehensive data analysis and visualization, using Power Query, SQL and Python for data transformation.
 
-### AI for Jobs Searching  
+### AI for Jobs Searching   
 Developed an intuitive platform for smarter job searches:  
 - **Frontend**: React  
 - **Backend**: Flask  
