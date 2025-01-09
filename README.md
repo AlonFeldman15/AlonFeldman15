@@ -61,8 +61,8 @@ collaborate with: [Shai Kiko](https://github.com/shaik1201), [Oren Elbazis](http
 - Utilized **Louvain** and **Leiden** community detection algorithms to reveal word-group structures.  
 collaborate with: [Tomer Hod](https://github.com/tomerhod1) 
   
-**And more**
----
+**And many more**
+
 
 ## Let's Connect 🌐  
 - **LinkedIn**: [Alon Feldman](www.linkedin.com/in/alon-feldman5)  
