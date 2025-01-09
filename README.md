@@ -45,7 +45,7 @@ I'm passionate about combining data-driven insights with innovative technologies
   - Design and develop end-to-end data pipelines and interactive dashboards to deliver actionable insights to stakeholders.
   - Leverage Power BI for comprehensive data analysis and visualization, using Power Query, SQL and Python for data transformation.
 
-### AI for Jobs Searching   
+### AI Based Jobs Search Engine   
 Developed an intuitive platform for smarter job searches:  
 - **Frontend**: React  
 - **Backend**: Flask  
