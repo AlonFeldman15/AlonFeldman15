@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm ALON FELDMAN
 
 ✨ **Data Analyst | BI Developer | Data Enthusiast**  
-🔭 **BSc Alumni from the Technion, Information Systems Engineering, Decision Data Science Faculty**  
+🔭 **BSc Information Systems Engineering, Decision Data Science Faculty, The Technion**  
 
 ---
 
