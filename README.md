@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm ALON FELDMAN
+# Hi there! 👋 I'm Alon Feldman
 
 ✨ **Data Analyst | BI Developer | Data Enthusiast**  
 🔭 **BSc Information Systems Engineering, Decision Data Science Faculty, The Technion**  
