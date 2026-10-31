@@ -21,7 +21,8 @@ connecting LLMs to real systems.
 ## Projects
 ### AI Music Detection (M.Sc.)
 Built and compared LSTM, CNN and transformer models in PyTorch to detect AI-generated
-music from unseen generators.
+music from unseen generators. Best F1 0.972 in-domain, plus an external generalization study.
+[Read more](https://github.com/AlonFeldman15/ai-music-detection)
 
 ### AI-Based Job Search Engine
 Full-stack job search platform: React, Flask, MongoDB. Team project.
