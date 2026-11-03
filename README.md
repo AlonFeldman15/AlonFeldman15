@@ -1,6 +1,6 @@
 # Hi, I'm Alon Feldman 👋
 
-**Software Engineer | Backend, Data Pipelines & AI Tooling**
+**Software Engineer | Backend, Data Pipelines & AI Tooling** <br>
 M.Sc. student at Tel Aviv University | B.Sc. Information Systems Engineering, Technion
 
 ## About Me
